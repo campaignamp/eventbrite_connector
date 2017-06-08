@@ -1,5 +1,5 @@
 {
-  "name": "bmeme/eventbrite_connector",
+  "name": "campaignamp/eventbrite_connector",
   "description": "PHP Library for integration with Eventbrite API v3",
   "type": "library",
   "license": "MIT",
@@ -8,12 +8,6 @@
     "connector",
     "eventbrite",
     "event"
-  ],
-  "authors": [
-    {
-      "name": "Adriano Cori",
-      "email": "adriano.cori@bmeme.com"
-    }
   ],
   "require": {
     "php": ">=5.5",
